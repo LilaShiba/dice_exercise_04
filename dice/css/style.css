@@ -52,6 +52,18 @@ body {
      font-family: Helvetica, Arial, sans-serif;
 }
 
+.win {
+  background-color: green;
+}
+
+.norm {
+  background-color: white;
+}
+
+.lose {
+  background-color: red;
+}
+
 
 /******************************************
 /* LAYOUT
